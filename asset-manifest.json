@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ToDo-And-Reminder/static/css/main.60b3b578.chunk.css",
-    "main.js": "/ToDo-And-Reminder/static/js/main.237840d6.chunk.js",
-    "main.js.map": "/ToDo-And-Reminder/static/js/main.237840d6.chunk.js.map",
+    "main.js": "/ToDo-And-Reminder/static/js/main.c9db9562.chunk.js",
+    "main.js.map": "/ToDo-And-Reminder/static/js/main.c9db9562.chunk.js.map",
     "runtime-main.js": "/ToDo-And-Reminder/static/js/runtime-main.1ff623d7.js",
     "runtime-main.js.map": "/ToDo-And-Reminder/static/js/runtime-main.1ff623d7.js.map",
     "static/css/2.061db776.chunk.css": "/ToDo-And-Reminder/static/css/2.061db776.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.061db776.chunk.css",
     "static/js/2.d67d6020.chunk.js",
     "static/css/main.60b3b578.chunk.css",
-    "static/js/main.237840d6.chunk.js"
+    "static/js/main.c9db9562.chunk.js"
   ]
 }
