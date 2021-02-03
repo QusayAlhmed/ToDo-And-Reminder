@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
+* {
+  font-family: 'Reem Kufi', sans-serif;
+}
+.app {
+  background-color: #18454a;
+  color: #f1f1f1;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  background-color: #6e2262;
+  padding: 20px;
+  border-radius: 30px 20px;
+}
+
+.input .icon {
+  text-align: center;
+}
+.input .icon .fab {
+  font-size: 150px !important;
+  color: #a5699c;
+}
+.input h1 {
+  padding: 10px;
+}
+
+/* Input style */
+.input input {
+  background: transparent;
+  border: 1px solid #18454a;
+  color: #f1f1f1;
+  padding: 10px;
+  border-radius: 10px 20px 20px 10px;
+  width: 100%;
+  margin: 2px 0;
+}
+.input input:focus {
+  border: 1px solid #e5523a;
+  outline: none !important;
+  box-shadow: 0 0 10px #719ece;
+}
+.input input::placeholder {
+  color: #999;
+}
+
+/* list Style */
+
+.list-group-item {
+  background-color: transparent !important;
+  color: #f1f1f1;
+  border-radius: 10px;
+}
+
+/* button style */
+
+.input button {
+  border-radius: 10px 30px;
+}
+.input button:first-of-type {
+  background-color: #f85a5a;
+  border: none;
+  margin: 10px 0;
+  transition: 0.3s all ease-in-out;
+  font-size: 20px;
+}
+.input button:last-of-type {
+  background-color: #f64c71;
+  border: none;
+  margin: 4px 0;
+  transition: 0.3s all ease-in-out;
+  font-size: 20px;
+}
